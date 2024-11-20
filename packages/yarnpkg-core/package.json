@@ -18,7 +18,7 @@
     "chalk": "^3.0.0",
     "ci-info": "^3.2.0",
     "clipanion": "^3.0.1",
-    "cross-spawn": "7.0.3",
+    "cross-spawn": "7.0.5",
     "diff": "^4.0.1",
     "globby": "^11.0.1",
     "got": "^11.7.0",
